@@ -1,0 +1,26 @@
+﻿# Agent / IDE noise
+.claude/
+.grok/
+agent-tools/
+mcps/
+terminals/
+Screenshots/
+
+# Large / local-only media (keep on disk, not on GitHub)
+Unused/
+[Originals]/
+LUT/
+space trivia photos/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.JPG
+*.JPEG
+*.PNG
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
